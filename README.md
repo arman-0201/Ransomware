@@ -82,7 +82,7 @@ This malware installs itself onto a device and encrypts a victim’s data, block
 
 <h3>Thank you</h3>
 
-# Authon: Hasmik Minasyan
+# Authon: Arman Aleksanyan
 
 
 
